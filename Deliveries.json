@@ -1,0 +1,286 @@
+{
+    "DataType": "DeliveriesData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.3f3",
+    "ActiveDeliveries": [
+        {
+            "DeliveryID": "cacc681e-7225-4164-b9f6-cce8a9529779",
+            "StoreName": "Gas-Mart (West)",
+            "DestinationCode": "barn",
+            "LoadingDockIndex": 1,
+            "Items": [
+                {
+                    "String": "battery",
+                    "Int": 100
+                },
+                {
+                    "String": "energydrink",
+                    "Int": 100
+                },
+                {
+                    "String": "paracetamol",
+                    "Int": 100
+                }
+            ],
+            "Status": 2,
+            "TimeUntilArrival": 0
+        },
+        {
+            "DeliveryID": "8639d424-faff-4e2b-b7db-2de1bbd42adc",
+            "StoreName": "Gas-Mart (Central)",
+            "DestinationCode": "barn",
+            "LoadingDockIndex": 1,
+            "Items": [
+                {
+                    "String": "battery",
+                    "Int": 100
+                },
+                {
+                    "String": "energydrink",
+                    "Int": 100
+                },
+                {
+                    "String": "paracetamol",
+                    "Int": 100
+                }
+            ],
+            "Status": 0,
+            "TimeUntilArrival": 8
+        }
+    ],
+    "DeliveryVehicles": [
+        {
+            "DataType": "VehicleData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "264a9763-80b3-47a7-bdb2-e72c0bbb23ae",
+            "VehicleCode": "veeper",
+            "Position": {
+                "x": 177.6199951171875,
+                "y": 0.41499996185302737,
+                "z": -18.4010009765625
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": -2.0762414010278008e-7
+            },
+            "Color": "White",
+            "VehicleContents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"battery\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"battery\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"battery\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"battery\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"battery\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"energydrink\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"energydrink\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"energydrink\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"energydrink\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"energydrink\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"paracetamol\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"paracetamol\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"paracetamol\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"paracetamol\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"paracetamol\",\"Quantity\":20}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "SpraySurfaces": [
+                {
+                    "DataType": "SpraySurfaceData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Strokes": [],
+                    "ContainsCartelGraffiti": false
+                },
+                {
+                    "DataType": "SpraySurfaceData",
+                    "DataVersion": 0,
+                    "GameVersion": "0.4.3f3",
+                    "Strokes": [],
+                    "ContainsCartelGraffiti": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "DataType": "CartelData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.3f3",
+    "Status": 2,
+    "HoursSinceStatusChange": 528,
+    "RegionInfluence": [
+        {
+            "Region": 0,
+            "Influence": 0.0
+        },
+        {
+            "Region": 1,
+            "Influence": 0.3999999761581421
+        },
+        {
+            "Region": 2,
+            "Influence": 0.8499999642372131
+        },
+        {
+            "Region": 3,
+            "Influence": 1.0
+        },
+        {
+            "Region": 4,
+            "Influence": 1.0
+        },
+        {
+            "Region": 5,
+            "Influence": 1.0
+        }
+    ],
+    "HoursUntilNextGlobalActivity": 17,
+    "RegionalActivityData": [
+        {
+            "Region": 0,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 31
+        },
+        {
+            "Region": 1,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 7
+        },
+        {
+            "Region": 2,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 28
+        },
+        {
+            "Region": 3,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 33
+        },
+        {
+            "Region": 4,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 25
+        },
+        {
+            "Region": 5,
+            "CurrentActivityIndex": -1,
+            "HoursUntilNextActivity": 35
+        }
+    ],
+    "ActiveCartelDeal": {
+        "RequestedProductID": "",
+        "RequestedProductQuantity": 0,
+        "PaymentAmount": 0,
+        "DueTime": {
+            "elapsedDays": 0,
+            "time": 0
+        },
+        "Status": 0
+    },
+    "HoursUntilNextDealRequest": 0
+}

@@ -1,0 +1,691 @@
+{
+    "DataType": "WorldStorageEntitiesData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.3f3",
+    "Entities": [
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "5eec8f1e-7a2e-4869-b490-f793b6975738",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"TrashGrabberData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"trashgrabber\",\"Quantity\":1,\"Content\":{\"TrashIDs\":[],\"TrashQuantities\":[]}}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 48,
+                "time": 1425
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "b47299ab-bf21-4427-98a1-267e0c215da5",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"highqualitypseudo\",\"Quantity\":6,\"Quality\":\"Premium\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 50,
+                "time": 306
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "8b7896f5-c55e-4b63-b77e-ce608ddc32dc",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"friendlynote3\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 50,
+                "time": 1600
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "5f163cb6-ff53-4ab1-af25-1532515a6c72",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"m1911\",\"Quantity\":1,\"Value\":7}",
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"m1911mag\",\"Quantity\":1,\"Value\":7}",
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"m1911\",\"Quantity\":1,\"Value\":7}",
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"m1911mag\",\"Quantity\":1,\"Value\":7}",
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"m1911\",\"Quantity\":1,\"Value\":7}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 42,
+                "time": 400
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "14765c8e-e741-406e-bb4b-e9143d1d3cfd",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"highqualitypseudo\",\"Quantity\":6,\"Quality\":\"Premium\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 49,
+                "time": 1339
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "cebab7b3-88e8-4529-9a35-d3b29c6250d7",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"ledgrowlight\",\"Quantity\":8}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"suspensionrack\",\"Quantity\":8}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 48,
+                "time": 715
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "db2485c0-b4db-4375-879a-46f7742ea4ec",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"highqualitypseudo\",\"Quantity\":6,\"Quality\":\"Premium\"}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 49,
+                "time": 1025
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "35c1574a-d7db-4712-9745-4e219d9918e6",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"baggie\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 49,
+                "time": 1355
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.4.3f3",
+            "GUID": "91d9a96a-6eba-4b9d-86d8-e583c7704237",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"IntegerItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"revolvercylinder\",\"Quantity\":1,\"Value\":6}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.4.3f3\",\"ID\":\"\",\"Quantity\":0}"
+                ],
+                "SlotFilters": [
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    },
+                    {
+                        "Type": 0,
+                        "ItemIDs": [],
+                        "AllowedQualities": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    }
+                ]
+            },
+            "LastContentChangeTime": {
+                "elapsedDays": 34,
+                "time": 217
+            }
+        }
+    ]
+}
